@@ -1,3 +1,4 @@
 Mission Name: operation Quiet Room
-Status: Started
-Leader: Unknown
+Status: In Progress
+Leader: Agent David
+Location: Training Base
