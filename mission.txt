@@ -1,5 +1,5 @@
 Mission Name: operation Quiet Room
-Status: Blocked waiting for equipment
+Status: Completed by David (equipment issue resolved)
 Leader: Agent David
 Location: Training Base
 Priority: High
