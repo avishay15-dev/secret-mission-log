@@ -1,5 +1,5 @@
 Mission Name: operation Quiet Room
-Status: Complieted by David
+Status: Completed by David (equipment issue resolved)
 Leader: Agent David
 Location: Training Base
 Priority: High
